@@ -1,0 +1,3 @@
+INSERT INTO tb_customer (identify_customer,first_name,last_name,type_document,number_document) VALUES ('u001','Christian','Segovia','dni','70803115');
+INSERT INTO tb_customer (identify_customer,first_name,last_name,type_document,number_document) VALUES ('u002','Christoper','CERDEÑO','dni','70803115');
+INSERT INTO tb_customer (identify_customer,first_name,last_name,type_document,number_document) VALUES ('u003','James','duarez','dni','70803112');
